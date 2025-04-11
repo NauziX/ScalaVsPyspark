@@ -47,7 +47,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 
 ## 📷 Infografía Visual
 
-![Comparativa](./A_comparison_chart_infographic_titled_"Scala_+_Spa.png")
+![Comparativa]("")
 
 ---
 
@@ -78,7 +78,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 ## 🧑‍💻 Autor
 
 **Nauzet**  
-📧 Contacto: [Nauzet.fdez@gmail,com]
+📧 Contacto: @Nauzet.fdez@gmail.com
 
 ---
 
