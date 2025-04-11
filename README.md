@@ -15,8 +15,8 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 .
 ├── ExamenNauzet.scala      # Versión en Scala + Spark
 ├── ExamenNauzet.py         # Versión en Python + PySpark
-├── AWS                     # Carpetas con imágenes configuracion en AWS
-├── Scala vs Pyspark        # Carpetas con imágenes comparando código 
+├── AWS                     # Carpeta con imágenes configuracion en AWS
+├── Scala vs Pyspark        # Carpeta con imágenes comparando código 
 ├── ventas.csv              # Archivo CSV de prueba
 └── README.md               # Este archivo
 ```
