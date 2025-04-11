@@ -16,8 +16,6 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 ├── ExamenNauzet.scala      # Versión en Scala + Spark
 ├── ExamenNauzet.py         # Versión en Python + PySpark
 ├── ventas.csv              # Archivo CSV de prueba
-├── ventas2.csv             # Archivo CSV adicional
-├── A_comparison_chart_infographic_titled_"Scala_+_Spa.png"  # Infografía visual
 └── README.md               # Este archivo
 ```
 
@@ -68,7 +66,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 - IntelliJ IDEA
 - Scala SDK 2.12.x o 2.13.x
 - Apache Spark instalado localmente
-- SBT (opcional)
+
 
 ### Para correr la versión en PySpark
 - Python 3.8+
@@ -80,7 +78,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 ## 🧑‍💻 Autor
 
 **Nauzet**  
-📧 Contacto: [Tu email o GitHub aquí]
+📧 Contacto: [Nauzet.fdez@gmail,com]
 
 ---
 
