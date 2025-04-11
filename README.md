@@ -3,7 +3,7 @@
 Este proyecto muestra una implementación paralela de ejercicios prácticos de procesamiento de datos usando Apache Spark, desarrollados en:
 
 - ⚙️ **Scala + Spark** (ejecutado localmente con IntelliJ)
-- ☁️ **Python + PySpark** (ejecutado en entorno remoto, con datos desde AWS S3)
+- ☁️ **Python + PySpark** (ejecutado en entorno remoto, con datos desde AWS)
 
 El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de ambos lenguajes en contextos reales de trabajo con big data.
 
