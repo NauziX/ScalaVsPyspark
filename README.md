@@ -9,7 +9,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 
 ---
 
-## 📁 Estructura del repositorio
+##  Estructura del repositorio
 
 ```
 .
@@ -23,7 +23,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 
 ---
 
-## ✅ Ejercicios Implementados
+##  Ejercicios Implementados
 
 | Ejercicio | Descripción                                                                 |
 |----------|-----------------------------------------------------------------------------|
@@ -35,7 +35,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 
 ---
 
-## ⚖️ Comparativa: Scala + Spark vs PySpark
+##  Comparativa: Scala + Spark vs PySpark
 
 | Característica            | Scala + Spark                                       | Python + PySpark                                       |
 |--------------------------|----------------------------------------------------|--------------------------------------------------------|
@@ -47,14 +47,14 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 
 ---
 
-## 📷 Infografía Visual
+##  Infografía Visual
 
 <img width="1720" alt="2025-04-11 13_41_17-" src="https://github.com/user-attachments/assets/2af766f8-9638-4c13-9a10-7acd14bafdac" />
 
 
 ---
 
-## 📌 Conclusiones
+##  Conclusiones
 
 - Ambas implementaciones permiten explotar la potencia de Apache Spark de forma efectiva.
 - **Scala + Spark** destaca en entornos productivos robustos y estructuras empresariales grandes.
@@ -63,7 +63,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 
 ---
 
-## 📦 Requisitos
+##  Requisitos
 
 ### Para correr la versión en Scala
 - IntelliJ IDEA
@@ -78,10 +78,10 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 
 ---
 
-## 🧑‍💻 Autor
+## Autor
 
 **Nauzet**  
-📧 Contacto: Nauzet.fdez@gmail.com
+ Contacto: Nauzet.fdez@gmail.com
 
 ---
 
