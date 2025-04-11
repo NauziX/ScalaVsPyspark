@@ -49,6 +49,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 
 ## 📷 Infografía Visual
 
+<img width="1720" alt="2025-04-11 13_41_17-" src="https://github.com/user-attachments/assets/2af766f8-9638-4c13-9a10-7acd14bafdac" />
 
 
 ---
