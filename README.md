@@ -78,7 +78,7 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 ## 🧑‍💻 Autor
 
 **Nauzet**  
-📧 Contacto: @Nauzet.fdez@gmail.com
+📧 Contacto: Nauzet.fdez@gmail.com
 
 ---
 
