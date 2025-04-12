@@ -1,4 +1,4 @@
-# Explorando Apache Spark con Scala y PySpark: dos formas de trabajar con Big Data
+# Explorando Apache Spark con Scala y PySpark: dos lenguajes, una misma tecnología
 
 Este proyecto muestra una implementación paralela de ejercicios prácticos de procesamiento de datos usando Apache Spark, desarrollados en:
 
