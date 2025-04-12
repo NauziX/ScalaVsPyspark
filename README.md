@@ -59,10 +59,14 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 
 ##  Conclusiones
 
-- Ambas implementaciones permiten explotar la potencia de Apache Spark de forma efectiva.
-- **Scala + Spark** destaca en entornos productivos robustos y estructuras empresariales grandes.
-- **PySpark** es más usado en ciencia de datos, aprendizaje automático, y trabajos en la nube.
-- La elección de la tecnología depende del equipo, la infraestructura y el flujo de trabajo.
+Después de trabajar con ambas implementaciones, puedo decir que **tanto Scala como Python se integran muy bien con Apache Spark** y permiten sacarle mucho partido a esta tecnología.
+
+Aunque pueda parecer lo contrario, **personalmente me ha resultado más sencillo trabajar con Scala**, ya que ofrece de forma nativa algunas herramientas y estructuras que encajan muy bien con la lógica de Spark.
+
+Aun así, **PySpark también tiene sus ventajas**, especialmente en entornos cloud o cuando se trabaja con equipos orientados a ciencia de datos.
+
+En definitiva, como suele pasar en estos temas, **la mejor respuesta es: “depende”**.  
+Depende del proyecto, del equipo, del entorno de trabajo y del tipo de tareas que se quieran resolver. Lo importante es entender las fortalezas de cada enfoque y elegir en función de lo que se necesita.
 
 ---
 
