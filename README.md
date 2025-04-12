@@ -1,4 +1,4 @@
-# Comparativa de Procesamiento de Datos con Apache Spark: Scala vs PySpark
+# Explorando Apache Spark con Scala y PySpark: dos formas de trabajar con Big Data
 
 Este proyecto muestra una implementación paralela de ejercicios prácticos de procesamiento de datos usando Apache Spark, desarrollados en:
 
