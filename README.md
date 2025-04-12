@@ -14,6 +14,9 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 ```
 .
 ├── ExamenNauzet.scala      # Versión en Scala + Spark
+├── ExamenNauzetTest.scala  # Tests automatizados de la versión Scala
+├── TestInit.scala          # Infraestructura de testing (proporcionada)
+├── build.sbt               # Configuración del proyecto Scala
 ├── ExamenNauzet.py         # Versión en Python + PySpark
 ├── AWS                     # Carpeta con imágenes configuracion en AWS
 ├── Scala vs Pyspark        # Carpeta con imágenes comparando código 
