@@ -65,7 +65,8 @@ Aunque pueda parecer lo contrario, **personalmente me ha resultado más sencillo
 
 Aun así, **PySpark también tiene sus ventajas**, especialmente en entornos cloud o cuando se trabaja con equipos orientados a ciencia de datos.
 
-En definitiva, como suele pasar en estos temas, **la mejor respuesta es: “depende”**.  
+En definitiva, como suele pasar en estos temas, **la mejor respuesta es: “depende”**.
+
 Depende del proyecto, del equipo, del entorno de trabajo y del tipo de tareas que se quieran resolver. Lo importante es entender las fortalezas de cada enfoque y elegir en función de lo que se necesita.
 
 ---
