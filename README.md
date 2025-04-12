@@ -82,7 +82,7 @@ Depende del proyecto, del equipo, del entorno de trabajo y del tipo de tareas qu
 ### Para correr la versión en PySpark
 - Python 3.8+
 - PySpark instalado (`pip install pyspark`)
-- Acceso a AWS S3 (para lectura del CSV remoto)
+- Acceso a AWS S3
 
 ---
 
