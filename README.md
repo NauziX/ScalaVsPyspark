@@ -44,9 +44,9 @@ El objetivo es **comparar los enfoques, ventajas y diferencias prácticas** de a
 |--------------------------|----------------------------------------------------|--------------------------------------------------------|
 | **Lenguaje**             | Tipado estático, ejecutado en la JVM               | Dinámico, más flexible                                 |
 | **Curva de Aprendizaje** | Más pronunciada, ideal para desarrolladores        | Más accesible para científicos de datos y analistas    |
-| **Entorno**              | Local (IntelliJ IDEA), ficheros locales            | Cloud-ready (VSCode, S3), más escalable                |
+| **Entorno de trabajo**   | Frecuente en desarrollo local(on-prem o cloud)     | Altamente integrado en plataformas cloud          |
 | **Performance**          | Muy alto, especialmente en entornos Spark puros    | Excelente en clústeres distribuidos en la nube         |
-| **Casos de Uso**         | Producción backend, procesamiento batch complejo   | Ciencia de datos, prototipos, pipelines cloud-native   |
+| **Casos de Uso**         | Backend de datos, ETLs complejos,pipe empresariales| Ciencia de datos, prototipos, pipelines cloud-native   |
 
 ---
 
