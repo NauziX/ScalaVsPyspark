@@ -88,9 +88,9 @@ class ExamenNauzetTest extends TestInit {
       .option("inferSchema", "true")
       .csv("C:\\Users\\Nauzet\\Scala\\MiPrimerSparkApp\\src\\main\\scala\\app\\data\\ventas.csv")
 
-    val out = ejercicio5(ventas)(spark).collect().map(x => (x.getInt(0), x.getDouble(1)))
+    val resultado = ejercicio5(ventas)(spark).collect().map(x => (x.getInt(0), x.getDouble(1)))
 
-    out.toList shouldBe List((108,486.0), (101,460.0), (103,280.0), (107,396.0), (102,405.0), (109,540.0), (105,570.0), (110,494.0), (106,425.0), (104,800.0))
+    resultado.toList shouldBe List((108,486.0), (101,460.0), (103,280.0), (107,396.0), (102,405.0), (109,540.0), (105,570.0), (110,494.0), (106,425.0), (104,800.0))
 
   }
 
